@@ -41,14 +41,6 @@ Test the live demo: [Hugging Face Space](https://huggingface.co/spaces/abhinavra
     streamlit run app.py
     ```
 
-- `agents/`: Contains agent logic for location, guide, and trip planning.
-- `components/`: UI or Streamlit component definitions.
-- `utils/`: Utility functions and helpers.
-- `assets/`: Static files such as images or icons.
-- `app.py`: Main Streamlit application.
-- `requirements.txt`: Python dependencies.
-- `.env.example`: Example environment variables.
-
 ## License
 
 MIT License
