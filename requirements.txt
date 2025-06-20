@@ -1,0 +1,12 @@
+crewai
+crewai_tools
+langchain
+langchain_community
+langchain_core
+langchain_groq
+langchain_openai
+langchain_ollama
+streamlit
+duckduckgo-search
+python-dotenv
+pysqlite3-binary
