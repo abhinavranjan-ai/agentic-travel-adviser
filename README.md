@@ -29,7 +29,7 @@ Test the live demo: [Hugging Face Space](https://huggingface.co/spaces/abhinavra
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/abhinavranjan-ai/agentic-travel-planner.git
+    git clone https://github.com/abhinavranjan-ai/agentic-travel-adviser.git
     cd agentic-travel-planner
     ```
 2. **Install dependencies:**
