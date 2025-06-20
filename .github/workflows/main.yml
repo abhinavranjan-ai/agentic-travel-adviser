@@ -21,4 +21,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force https://huggingface.co/spaces/abhinavranjan-ai/agentic-trip-planner main
+        run: git push --force https://abhinavranjan-ai:$HF_TOKEN@huggingface.co/spaces/abhinavranjan-ai/agentic-trip-planner main
