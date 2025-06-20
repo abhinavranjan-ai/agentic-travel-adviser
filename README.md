@@ -8,7 +8,7 @@ sdk_version: 1.42.0
 app_file: app.py	
 pinned: false	
 license: apache-2.0
-short_description: AI-powered travel planner creating personalized itineraries and recommendations using multi-agent technology.
+short_description: AI travel planner with multi-agent recommendations.
 ---
 
 # Agentic Trip Adviser
